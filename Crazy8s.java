@@ -1,13 +1,12 @@
-// File: FinalProjectCrazyEightsAhmadnezhadParsa.java
+// File: Crazy8s.java
 // Date: May 28, 2023
 // Author: Parsa Ahmadnezhad
-// Teacher: Mr. Chu
 // Description: An interface that lets the user play the game of Crazy 8's
 
 import java.util.*; // Imports the whole utility package into the code
 import java.io.*;   // Imports the Input/Output package into the code
 
-public class FinalProjectCrazyEightsAhmadnezhadParsa { // Defines the class called FinalProjectCrazyEightsAhmadnezhadParsa
+public class Crazy8s { // Defines the class called FinalProjectCrazyEightsAhmadnezhadParsa
   static Scanner scan = new Scanner(System.in);        // Declares a global console scanner variable and assigns the data type Scanner to it
   final static int MAXDRAW = 3;                        // Initializes the constant variable and assigns the number to it 
   public static void main (String[] args) throws Exception {          // Defines the main method and adds exceptions because file reding/writing will be occuring in the program
