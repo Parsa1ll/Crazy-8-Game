@@ -6,7 +6,7 @@
 import java.util.*; // Imports the whole utility package into the code
 import java.io.*;   // Imports the Input/Output package into the code
 
-public class Crazy8s { // Defines the class called FinalProjectCrazyEightsAhmadnezhadParsa
+public class Crazy8s { // Defines the main class 
   static Scanner scan = new Scanner(System.in);        // Declares a global console scanner variable and assigns the data type Scanner to it
   final static int MAXDRAW = 3;                        // Initializes the constant variable and assigns the number to it 
   public static void main (String[] args) throws Exception {          // Defines the main method and adds exceptions because file reding/writing will be occuring in the program
