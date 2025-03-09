@@ -740,4 +740,3 @@ public class Crazy8s { // Defines the class called FinalProjectCrazyEightsAhmadn
 //    [5] String.toUpperCase() = https://www.javatpoint.com/java-string-touppercase
 
 // End of the Program
-// Game of Crazy 8's | Final Summative Assignment | ICS3U1 | Bayview Secondary School
